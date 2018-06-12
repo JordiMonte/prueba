@@ -6,8 +6,8 @@
 <body>
 	<table>
         <tr>
-            <td>SEooooooooo</td>
-            <td>PRECIO</td>
+            <td>AAAAA</td>
+            <td>VVVVVV</td>
         </tr>
             <?php
                 for ($i = 0; $i < count($datos); $i++) {
